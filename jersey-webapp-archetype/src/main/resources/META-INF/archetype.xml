@@ -3,6 +3,7 @@
 	<id>quickstart</id>
 	<sources>
 		<source>src/main/java/JerseyAppSetup.java</source>
+		<source>src/main/java/MyResource.java</source>
 	</sources>
 	<resources>
 		<resource>src/main/webapp/WEB-INF/web.xml</resource>

@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<b> Jersey Archetype is working -- with Eclipse JEE flavour</b>
+		<h2> Jersey Archetype is working -- with Eclipse JEE flavour</h2>
+		<br/>
+		<h3>try accessing /rest or /rest/ after your webapp name.</h3>
 </body>
 </html>
