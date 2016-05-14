@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype>
+	<id>quickstart</id>
+	<sources>
+		<source>src/main/java/JerseyAppSetup.java</source>
+	</sources>
+	<resources>
+		<resource>src/main/webapp/WEB-INF/web.xml</resource>
+		<resource>src/main/webapp/index.jsp</resource>
+	</resources>
+</archetype>
